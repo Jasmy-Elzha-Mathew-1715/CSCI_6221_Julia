@@ -1,13 +1,14 @@
-**CinephileCentral
+**CinephileCentral**
+
 This is a movie recommendation system built using Julia, HTML, JavaScript, and CSS. It provides recommendations to users based on their movie preferences and ratings.
 
-Technologies Used
+*Technologies Used*
 * Julia: Julia is a high-performance, dynamic programming language for technical computing, used here for data processing and recommendation algorithm implementation.
 * HTML: HTML (Hypertext Markup Language) is used for building the web user interface of the recommendation system.
 * JavaScript: JavaScript is a widely used programming language for building interactive web applications, used here for handling user interactions and making recommendations.
 * CSS: CSS (Cascading Style Sheets) is used for styling the HTML elements to create an attractive and user-friendly interface.
 
-Features
+*Features*
 - User Registration and Login: Users can register and login to the system to get personalized recommendations based on their preferences.
 - Movie Database: The system has a database of movies with their details such as title, genre, cast, and ratings.
 Movie Recommendations: Users can get personalized movie recommendations based on their preferences and ratings.
