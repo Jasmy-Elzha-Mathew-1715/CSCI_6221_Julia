@@ -16,9 +16,10 @@ This is a movie recommendation system built using Julia, HTML, JavaScript, and C
 *Setup Instructions*
 - Install Julia on your system (https://julialang.org/downloads/).
 - Clone the repository to your local machine.
-- Import the movie database into Julia and preprocess the data.
-- Start the Julia server and run the movie recommendation system.
-- Access the system through a web browser using the provided URL.
+- start Genie framework in Julia and install dependencies using the commands "Julia" followed by "using Genie" and "] activate()"
+- Import the movie database into Julia and seed the data using "seed()" command.
+- Start the Julia server using "Genie.loadapp()" command and run the movie recommendation system using "up()" command.
+- Access the system through a web browser using the provided URL and port.
 
 *File Structure*
 The repository contains the following files and folders:
