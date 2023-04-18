@@ -12,7 +12,7 @@ This is a movie recommendation system built using Julia, HTML, JavaScript, and C
 *Frameworks Used*
 * Genie.jl: Genie.jl is a web application framework for Julia that provides a simple and intuitive way to build web applications. It is used here for handling HTTP requests and responses, routing, and serving web pages.
 * Routes.jl: Routes.jl is a routing framework for Julia that is used in conjunction with Genie.jl for defining routes and handling URL routing in the web application.
-*SearchLightSQLite.jl: SearchLightSQLite.jl is a searchengine framework for Julia that works with SQLite database to come up with efficient responses based on the given input keywords
+* SearchLightSQLite.jl: SearchLightSQLite.jl is a searchengine framework for Julia that works with SQLite database to come up with efficient responses based on the given input keywords
 
 
 *Setup Instructions*
