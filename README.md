@@ -7,15 +7,11 @@ This is a movie recommendation system built using Julia, HTML, JavaScript, and C
 * HTML: HTML (Hypertext Markup Language) is used for building the web user interface of the recommendation system.
 * JavaScript: JavaScript is a widely used programming language for building interactive web applications, used here for handling user interactions and making recommendations.
 * CSS: CSS (Cascading Style Sheets) is used for styling the HTML elements to create an attractive and user-friendly interface.
+* SQLite: SQLite is a lightweight, serverless, self-contained, and zero-configuration relational database management system used here for storing and retrieving movie data and user preferences.
 
-*Features*
-- User Registration and Login: Users can register and login to the system to get personalized recommendations based on their preferences.
-- Movie Database: The system has a database of movies with their details such as title, genre, cast, and ratings.
-- Movie Recommendations: Users can get personalized movie recommendations based on their preferences and ratings.
-- User Ratings: Users can rate movies and their ratings are used to generate recommendations.
-- User Profile: Users can view and update their profile information including their preferences and ratings.
-- Search Functionality: Users can search for movies by title, genre, or cast.
-- Responsive Design: The user interface is designed to be responsive and compatible with different devices and screen sizes.
+*Frameworks Used*
+* Genie.jl: Genie.jl is a web application framework for Julia that provides a simple and intuitive way to build web applications. It is used here for handling HTTP requests and responses, routing, and serving web pages.
+* Routes.jl: Routes.jl is a routing framework for Julia that is used in conjunction with Genie.jl for defining routes and handling URL routing in the web application.
 
 *Setup Instructions*
 - Install Julia on your system (https://julialang.org/downloads/).
