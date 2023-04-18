@@ -27,10 +27,10 @@ This is a movie recommendation system built using Julia, HTML, JavaScript, and C
 *File Structure*
 The repository contains the following files and folders:
 
-src: This folder contains the Julia source code for implementing the recommendation algorithm and handling user requests.
-static: This folder contains the static files such as HTML, JavaScript, and CSS for building the web user interface.
-data: This folder contains the movie database in CSV format.
-README.md: This file contains the documentation for the movie recommendation system.
+- src: This folder contains the Julia source code for implementing the recommendation algorithm and handling user requests.
+- static: This folder contains the static files such as HTML, JavaScript, and CSS for building the web user interface.
+- data: This folder contains the movie database in CSV format.
+- README.md: This file contains the documentation for the movie recommendation system.
 
 *Acknowledgements*
 The movie database used in this system is obtained from Kaggle datasets (https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download). The recommendation algorithm used in this system is based on collaborative filtering techniques.
